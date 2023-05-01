@@ -96,3 +96,9 @@ request for the code review
 I would like to thank the microverse team that stands me for this project including my morning team, code reviewers and my partners
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+## 📝 License <a name="license"></a>
+
+This project is [MIT](./LICENSE) licensed.
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
